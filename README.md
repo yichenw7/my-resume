@@ -1,8 +1,7 @@
 ## 联系方式
-- 手机：
+- 手机：18501702647
 - Email：yichenw7@126.com
 - QQ/微信号：yichenw7
-- LinkIn: 
 
 ---
 
