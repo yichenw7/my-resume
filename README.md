@@ -14,30 +14,23 @@
 
 ## 工作经历
 ### 森浦资讯（2017.11 ~ 至今） 
-- 职责：
-- 技术：React/AngularJs/Angular6/TypeScript/NodeJs
-- 主要成就：
+- 职责：负责qb产品债券详情项目，负责Ias产品前端工作
+- 技术：React/AngularJs/Angular6/TypeScript/NodeJs/echarts/amcharts
+- 主要成就：1.独立学习react框架，按时交付qb债券详情项目。2.独立学习angularjs，承担Ias项目后续项目开发以及维护。3.Ias性能的优化。
 
 ---
 
 ### 31会议网（2017.05 ~ 2017.11）
-- 职责：
-- 技术：Vue
-- 主要成就：
+- 职责：负责统计报表项目，负责大会以项目参会流程项目
+- 技术：Vue/小程序/echarts
+- 主要成就：使用vue框架构建统计报表项目单页面运用，2.开发大会议产品小程序版本
 
 ---
 
 ### 上海上业信息科技股份有限公司（2015.07 ~ 2017.05）
-- 职责：
-- 技术：Vue/Jquery
-- 主要成就：
-
----
-
-## 开源项目和作品
-### 开源项目
- - 
- - 
+- 职责：负责完成图书馆门户网站的开发和重构
+- 技术：Vue/Jquery/requirejs
+- 主要成就：1.对jquery/requirejs模块化/webpack熟练运用。2.引入vue框架，对jquery产品完成重构。3.js以及css3动画熟练运用。
  
 ---
 
